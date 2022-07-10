@@ -7,6 +7,6 @@ Focus Areas: Web Development, Blockchain, Restful Services, Game Development, Te
 Industry Expertise: FinTech, Cryptocurrency Exchange, Enterprise Software, Healthcare, Insurance, Social Media
 
 My Stack:
-- Ruby on Rails, .NET, ASP.NET Web API, ASP.NET MVC, Entity Framework, AzureSQL, Azure, MongoDB, Redis, AWS
-- Angular2+, HTML5, CSS3, Bootstrap
+- Ruby on Rails, .NET, ASP.NET Web API, ASP.NET MVC, Entity Framework, AzureSQL, Azure, MongoDB, Postgresql, Redis, AWS, 
+- Angular2+, React, HTML5, CSS3, Bootstrap
 - Blockchain, Bitcoin, Ethereum, Ripple, Tether, ERC20 Tokens
